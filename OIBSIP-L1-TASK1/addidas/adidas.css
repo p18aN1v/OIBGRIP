@@ -1,0 +1,288 @@
+body{
+    cursor: pointer;
+}
+
+.Firstline{
+    width: 100%;
+    height: 40px;
+    background-color: black;
+    box-sizing: border-box;
+    
+}
+
+.Secondline{
+    width: 100%;
+    height: 70px;
+    box-sizing: border-box;
+    background-color:white;
+}
+
+.text{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    padding-top: 0.005cm;
+    font-size: small;
+}
+
+.text1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    padding-top: 0.5cm;
+    font-size: small;
+}
+
+.material-symbols-outlined{
+    color:black;  
+}
+
+.firstline_button
+{
+    padding-left: 59%;
+    margin-top: -2%;
+    position: absolute;
+    color: whitesmoke;
+}
+.rightText{
+    float:right;
+    padding-bottom: 1cm;
+    margin-right: 1cm;
+    text-align: right;
+    margin-top: -1.75cm;
+}
+
+.search input[type=text] {
+        float: right;
+        padding: 9px;
+        border: none;
+        margin-top: -2%;
+        margin-right: -250px;
+        font-size: 10;       
+}
+
+.bag{
+    float:right;
+    padding: 9px;
+    margin-top: -2.3%;
+    margin-right: -450px;
+    font-size: 10;
+    color: black  
+}
+
+.heart{
+    float:right;
+    padding: 9px;
+    margin-top: -2.3%;
+    margin-right: -390px;
+    font-size: 10;
+    color: black;
+}
+
+.person{
+    float:right;
+    padding: 9px;
+    margin-top: -2.3%;
+    margin-right: -330px;
+    font-size: 10;
+    color: black;
+}
+
+.logo{
+    margin-top: -4%;
+    padding-bottom:300% ;
+    font: size 0;
+    margin-left:1% ;
+}
+
+.glass{
+    float:right;
+    padding: 9px;
+    margin-top: -2.3%;
+    margin-right: -251px;
+    font-size: 10;
+    color: black;
+}
+
+.img{
+    margin: 3%;
+    position:relative;
+}
+
+.shoes{
+    margin-left:15%;   
+}
+
+.clothing{
+    margin-left: 33%;
+    margin-top: -15%;
+}
+
+.newArival{
+    margin-left:50%;
+    margin-top: -15.2%;
+}
+
+.seller{
+    margin-left:68%;
+    margin-top:-15.2%;
+}
+
+.firstText{
+    position: absolute;
+    top: 160px;
+    left: 280px;
+    font-family:monospace;
+}
+
+.secondText{
+    position: absolute;
+    top: 160px;
+    left: 510px;
+    font-family:monospace;
+}
+
+.thirdText{
+    position: absolute;
+    top: 160px;
+    left: 740px;
+    font-family:monospace;
+}
+
+.fourthText{
+    position: absolute;
+    top: 160px;
+    left: 988px;
+    font-family:monospace;
+}
+
+.img1{
+    margin-left:2%;  
+}
+
+.img2{
+    margin-left:22%;
+    margin-top:-27%;
+}
+
+.img3{
+    margin-left:42%;
+    margin-top:-27%;
+}
+
+.img4{
+    margin-left:61%;
+    margin-top:-27%;
+}
+
+.img5{
+    margin-left:81%;
+    margin-top:-27%;
+}
+
+.dash{
+    align-content: center;
+    margin-left: 45%;
+}
+
+.reimg{
+    margin-left: 6%;
+}
+
+.fells{
+    margin-left:29%;
+    margin-top:-36%;
+}
+
+.love{
+    margin-left:51%;
+    margin-top:-36%;
+}
+
+.support{
+    margin-left:74%;
+    margin-top:-36%;
+}
+
+.more{
+    text-align: center;
+}
+
+.box
+{
+    box-sizing: border-box;
+    border: 1PX solid;
+    margin: 30%;
+    margin-top: 0%;
+    font-family: sans-serif;   
+}
+
+.container
+{
+  display: grid;
+  height: 100vh;
+  grid-template-columns: auto auto;
+  background-color:aliceblue;
+  margin-top: -25%;
+}
+
+.left
+{
+    padding-top: 0%;
+    text-align: left;
+    padding-right: 8%;
+    margin: 10%;
+    font-family: sans-serif;
+}
+
+.right
+{
+    background-color: aliceblue;
+    text-align: left;
+    padding-left: 8%;
+    margin:10%;
+    font-family: sans-serif;
+}
+
+.size{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    background-color: yellow;   
+    margin-top: -4%;
+    padding: 1%;
+}
+
+.signup
+{
+    margin-top: -8%;
+}
+
+table
+{
+    margin-top: 20%;
+    text-align:left;
+    float: right;
+    margin-left: 1%;   
+}
+
+.icons
+{
+    
+    text-align:left;
+    margin-left: 10%;
+    margin-top: -20%;
+}
+
+.container1
+{
+    height: 10vh;
+    width: 184vh;
+    padding-top: 49%;
+}
+
+.end{
+    margin-top: 5%;
+    background-color: darkgray;
+    width: 100%;
+    padding: 5%;
+}
